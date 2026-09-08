@@ -2,7 +2,6 @@
 
 Python solutions for the first two days of the practice set.
 
-Day 1: Problems 1–36  
-Day 2: Problems 37–74
-
-Run: `python day-1/01_arithmetic_operations_1.py`
+day 1: problems 1–36  
+day 2: problems 37–74
+day 3: problems 74-112
